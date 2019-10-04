@@ -1,0 +1,10 @@
+Hello there
+I'm excited to perform some command line operations
+Hope you enjoy it
+Good Luck
+This is copied file
+Hello there
+I'm excited to perform some command line operations
+Hope you enjoy it
+Good Luck
+
